@@ -8,4 +8,4 @@
 4. run command to execute robot --outputdir ../../reports/TodoApp -L trace -b debug.log -i "Todo" DemoTodo-main
 	ensure your current folder is under cd your current directory to DemoTodo-main before execute
 	example , mine location is C:\Users\chien\OneDrive\Desktop\DemoTodo-main under this folder have another folder name DemoTodo-main
-	and inside -main folder there is 1 TodoDemo.py file and 1 TodoDemo.robot
+	and inside DemoTodo-main folder there is 1 TodoDemo.py file and 1 TodoDemo.robot

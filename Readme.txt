@@ -9,3 +9,4 @@
 	ensure your current folder is under cd your current directory to DemoTodo-main before execute
 	example , mine location is C:\Users\chien\OneDrive\Desktop\DemoTodo-main under this folder have another folder name DemoTodo-main
 	and inside DemoTodo-main folder there is 1 TodoDemo.py file and 1 TodoDemo.robot
+5. Test cases is written under TodoDemo.robot with Cucumber Gherkin format

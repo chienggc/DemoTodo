@@ -6,6 +6,6 @@
 	-d:\uiautomation (this is the path) that i put my automation file
 3. after python is installed, run bat file to install needed libraries
 4. run command to execute robot --outputdir ../../reports/TodoApp -L trace -b debug.log -i "Todo" DemoTodo-main
-	ensure your current folder is under cd your current directory to TodoTestcases before execute
+	ensure your current folder is under cd your current directory to DemoTodo-main before execute
 	example , mine location is C:\Users\chien\OneDrive\Desktop\DemoTodo-main under this folder have another folder name DemoTodo-main
 	and inside -main folder there is 1 TodoDemo.py file and 1 TodoDemo.robot

@@ -1,0 +1,3 @@
+pip install robotframework-pageobject
+pip install robotframework
+pip install robotframework-seleniumlibrary
